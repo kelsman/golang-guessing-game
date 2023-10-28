@@ -6,7 +6,7 @@ Welcome to the Number Guessing Game implemented in Go! This is a simple command-
 
 Here's a brief overview of the code structure:
 
--main.go: This is the main program that controls the game loop.
+- main.go: This is the main program that controls the game loop.
 
 - getRandomNumber(): Generates a random secret number using Go's math/rand package.
 - getUserInput(): Collects user input and handles any errors during input using Go's fmt.Scan() function.
